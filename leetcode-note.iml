@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/leetcode#167" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/leetcode#26" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/leetcode#27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/leetcode#206" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
