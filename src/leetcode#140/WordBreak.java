@@ -19,7 +19,7 @@ import java.util.*;
  * ]
  *
  */
-public class wordBreak {
+public class WordBreak {
     //依然使用搜索，不过是记忆化搜索（自顶向下），既能保证性能，还能事先判断拆分的可行性（自底向上的dp则不行）
     public List<String> wordBreak(String s, List<String> wordDict) {
         Map<Integer, List<List<String>>> map = new HashMap<>();
