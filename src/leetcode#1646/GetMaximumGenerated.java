@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * Created by mo on 2020/11/8
- * 题目5561: 给你一个整数 n 。
+ * 题目1646: 给你一个整数 n 。
  * 按下述规则生成一个长度为 n + 1 的数组 nums ：
  * nums[0] = 0
  * nums[1] = 1
